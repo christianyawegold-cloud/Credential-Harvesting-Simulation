@@ -4,11 +4,12 @@ Independent Cybersecurity R&D Lab - Web Authentication & Adversary-in-the-Middle
 
 Credential Harvesting & Redirection (R&D Lab)
 
-🎯 Project Overview
+##  🎯 Project Overview
 
 This project is a custom-built, independent lab environment designed to simulate a credential harvesting workflow. The primary objective was to understand how threat actors intercept HTTP POST requests, locally log sensitive parameters, and execute seamless server-side redirections (bouncing the user to an authentic portal) to avoid detection.
 
-🛠️ Lab Architecture
+##  🎯 Project Overview
+  🛠️ Lab Architecture
 
 Target OS: Ubuntu 24.04 Virtual Machine (Local IP: 10.61.0.251).
 
@@ -44,7 +45,7 @@ Independent Cybersecurity R&D Lab - Web Authentication & Adversary-in-the-Middle
 
 Credential Harvesting & Redirection (R&D Lab)
 
-🎯 Project Overview
+##  🎯 Project Overview
 
 This project is a custom-built, independent lab environment designed to simulate a credential harvesting workflow. The primary objective was to understand how threat actors intercept HTTP POST requests, locally log sensitive parameters, and execute seamless server-side redirections (bouncing the user to an authentic portal) to avoid detection.
 
